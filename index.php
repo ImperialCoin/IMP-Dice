@@ -28,7 +28,7 @@ include './inc/start.php';
         <div class="menu">
           <a href="#" onclick="javascript:return fair();">FAIR?</a>                         
           <a href="#" onclick="javascript:return account();">ACCOUNT</a>
-          <a href="https://cryptothrift.com/?a_action=user_profile&post_author=934" target="_blank">electro2000</a>
+          <a href="http://allcoin.com/trade/IMP_BTC">BUY</a>
         </div>
       </div>
     </div>
